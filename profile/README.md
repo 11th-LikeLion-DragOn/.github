@@ -30,9 +30,6 @@
   <img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/a20dff7a-cfba-420d-87be-4a19c81ba823" width="220"  />   
  <img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/839b31e3-da44-427f-ab5f-379d6b1d38d1" width="220"  /> 
   <img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/de39d30c-10ed-4155-93a8-d25af4fe66fa " width="220"  />  
-
-  <br />
-  
   <img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/a89ebb9c-9824-4cd8-88fb-c1d37cf30511" width="220"  />  
   <img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/6fe85030-face-4553-bbf9-05e394f03d34" width="220"  />  
   <img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/39259b0c-1d8c-4773-8cc1-c894dbe61404" width="220"  />  
