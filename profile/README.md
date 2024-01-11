@@ -76,7 +76,8 @@
 ### 🎨 기획 디자인
  |김지형|이수민|
  |:------:|:------:|
- |  |  |
+ | <img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/82d8b2f6-a8ec-4e69-86a7-afe6e2ce116b" width="100" height="100"/>  | <img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/2e7b842a-c7ce-4024-b175-ee971f7a786c" width="100" height="100"/> 
+ 
 
 <br/>
  
