@@ -26,8 +26,16 @@
 
 ### ⭐️ 챌린지 성향 테스트
 <p>
-  <img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/8ba5843c-a104-47bd-a1fd-fc43ef168b52" width="200" />  
-  <img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/a3245da5-dca2-46e7-bfa4-f93f228a6d85" width="220"  />  
+  <img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/2394f1bf-2c85-4af2-a136-0a6e0ab74414" width="200" />  
+  <img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/a20dff7a-cfba-420d-87be-4a19c81ba823" width="220"  />   
+ <img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/839b31e3-da44-427f-ab5f-379d6b1d38d1" width="220"  /> 
+  <img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/de39d30c-10ed-4155-93a8-d25af4fe66fa " width="220"  />  
+
+  <br />
+  
+  <img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/a89ebb9c-9824-4cd8-88fb-c1d37cf30511" width="220"  />  
+  <img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/6fe85030-face-4553-bbf9-05e394f03d34" width="220"  />  
+  <img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/39259b0c-1d8c-4773-8cc1-c894dbe61404" width="220"  />  
 </p>
 
 <summary>도전 과제를 수행할 때 나는 어떤 타입인지 테스트를 통해 확인할 수 있어요  <br /> </summary>
@@ -39,7 +47,7 @@
  <p>
   <img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/39b58870-c6cd-47fb-bf81-4557d044aa2d" width="200" /> 
 <img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/9ef6efbb-b0f9-4386-9839-1197db31fe21" width="200" /> 
-
+<img src="https://github.com/11th-LikeLion-DragOn/DragOn_Front/assets/100662232/701ae678-0d39-4e91-b8d4-311584f7849e" width="200" /> 
  </p>
 
 <summary> 일주일 단위로 챌린지를 생성할 수 있어요 <br /> </summary>
